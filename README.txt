@@ -1,4 +1,4 @@
-belonging to css-assignments
+belonging to js-assignments branch
 One can find section by section assignment commits
 changing 3rd line in master branch
 
